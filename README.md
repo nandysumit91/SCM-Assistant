@@ -86,6 +86,12 @@ The category does not exceed the Tier-2 threshold. However, the defect rate is a
 
 ---
 
+Live Demo
+
+Try the deployed AI Supplier Intelligence & Compliance Assistant here:
+
+🔗 Flowise Chatbot: https://cloud.flowiseai.com/chatbot/ba462b47-e1fe-42c9-88e7-a71f4ac7722b
+
 ## Conclusion
 
 The AI-powered Supplier Intelligence and Compliance Assistant successfully analyzed supplier records, procurement data, disruption risks, compliance policies, and operational metrics using Retrieval-Augmented Generation (RAG). The system was able to identify supplier risks, disruption events, spend concentration, watchlist restrictions, and quality performance indicators from the provided document repository.
